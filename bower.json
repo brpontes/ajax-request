@@ -1,0 +1,22 @@
+{
+  "name": "ajax-request",
+  "authors": [
+    "Bruno Pontes <brunodeveloper18@gmail.com>"
+  ],
+  "description": "Module to send requests to server",
+  "main": "ajax-request.js",
+  "keywords": [
+    "ajax",
+    "request",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
