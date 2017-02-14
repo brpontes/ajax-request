@@ -5,7 +5,7 @@
 Ajax Request is an easy-to-use javascript module that sends request to the server and get response your way.
 
 # Getting Started
-### Instalation
+### Installation
 
 To install you'll just need:
 
