@@ -1,0 +1,32 @@
+{
+  "name": "ajax-request",
+  "authors": [
+    "Bruno Pontes <brunodeveloper18@gmail.com>"
+  ],
+  "description": "Module to send requests to server",
+  "main": "ajax-request.js",
+  "keywords": [
+    "ajax",
+    "request",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/brunodev18/ajax-request",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "d6cba4e9f8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d6cba4e9f8acbf3ee80a62ba7d40e4e74bddd28c"
+  },
+  "_source": "https://github.com/brunodev18/ajax-request.git",
+  "_target": "*",
+  "_originalSource": "ajax-requests",
+  "_direct": true
+}
