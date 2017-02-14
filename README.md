@@ -1,8 +1,8 @@
-[![N|Solid](https://cdn1.iconfinder.com/data/icons/shop-payment-vol-6/128/shop-08-3-128.png)](#)
+[![Box|Box Send](https://cdn1.iconfinder.com/data/icons/shop-payment-vol-6/128/shop-08-3-128.png)](#)
 
 # Ajax Request
 
-Ajax Request is a easy-to-use javascript module that sends request to the server and get response your way.
+Ajax Request is an easy-to-use javascript module that sends request to the server and get response your way.
 
 # Getting Started
 ### Instalation
@@ -63,4 +63,4 @@ AjaxRequest.init({
   - ```data```: Object containing the data that will be send to the server [Required if the ```method``` parameter was POST]
  
 ### Contributing
-Feel free to send pull requets!
+Feel free to send pull requests!
